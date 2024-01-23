@@ -1,3 +1,3 @@
 # freestyle-radio
 
-https://github.com/belskiysergey/freestyle-radio/index.html
+http://belskiysergey.github.io/freestyle-radio/
